@@ -13,7 +13,7 @@ Each peer runs an independent instance of the program in a terminal environment,
 | Name                 | Roll No       |
 |----------------------|--------------|
 | Abhash Raj          | 230001002     |
-| Sanat Kumar Sukla   | 230005043     |
+| Sanat Kumar Shukla   | 230005043     |
 | Abhijeet Singh Parihar | 230005001 |
 
 ---
