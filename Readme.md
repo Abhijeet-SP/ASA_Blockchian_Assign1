@@ -63,7 +63,6 @@ Ensure Python 3.x is installed on your system.
 ### Clone the Repository
 ```bash
    git clone https://github.com/Abhijeet-SP/ASA_Blockchian_Assign1.git
-   cd Blockhain_Assign1
 ```
 
 ### Running Multiple Peers
